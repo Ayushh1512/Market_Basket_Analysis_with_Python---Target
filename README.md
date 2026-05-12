@@ -101,3 +101,26 @@ Build a comprehensive Customer Purchasing Behavior and Product Recommendation Re
 
 - <a href="https://github.com/Ayushh1512/Market_Basket_Analysis_with_Python---Target/blob/main/ML%20Project%20PPT.pdf">PPT</a>
 
+
+# Visualizations:
+
+<img width="526" height="463" alt="Screenshot 2026-04-26 142759" src="https://github.com/user-attachments/assets/c65f72d8-d3ea-469d-8041-a725977c1171" />
+
+
+
+
+<img width="485" height="437" alt="Screenshot 2026-04-26 142834" src="https://github.com/user-attachments/assets/f7cbe6ff-cd9d-4f19-9e4e-4d049636d2ee" />
+
+
+
+<img width="473" height="446" alt="Screenshot 2026-04-26 142902" src="https://github.com/user-attachments/assets/65bfbda3-b09d-4f06-9890-966dfae5dd5d" />
+
+
+
+
+<img width="975" height="415" alt="Screenshot 2026-04-26 143051" src="https://github.com/user-attachments/assets/c38f3f3f-26d7-41e0-847f-4afb8f6c8192" />
+
+
+
+# Insights:
+

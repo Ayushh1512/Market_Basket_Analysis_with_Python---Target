@@ -124,3 +124,39 @@ Build a comprehensive Customer Purchasing Behavior and Product Recommendation Re
 
 # Insights:
 
+- The dataset tracks multi-category purchasing across 5 main categories. All categories show nearly equal purchase rates (49–53%), with specific rankings:
+  
+- Clothing & Fashion — 378 customers (53.2%)
+  
+- Beauty & Personal Care — 377 customers (53.1%)
+  
+- Groceries & Gourmet Food — 357 customers (50.3%)
+  
+- Home & Kitchen — 357 customers (50.3%)
+  
+- Others — 348 customers (49.0%)
+  
+- Teens are most affected by high shipping costs relative to their group size — a price sensitivity signal.
+  
+- Adults (26–35) engage most with product recommendations.
+  
+- Teens and Seniors are most likely to reject personalized recommendations.
+  
+- Teens show the highest shopping satisfaction (3.17), likely due to lower expectations.
+  
+- Middle Age (36–50) customers tend to rely more heavily on peer reviews.
+  
+- Gender distribution is fairly balanced.
+  
+- Purchase frequency scores are nearly identical across genders, indicating no dominant gender-based shopping pattern.
+  
+- Browsing frequency is evenly spread across all four levels (~24–26% each), meaning no dominant browsing pattern exists.
+  
+- However, customers who browse "Multiple times a day" and complete carts "Sometimes" form the densest cluster in the heatmap — a high-intent but inconsistent group worth targeting.
+  
+- Groceries & Gourmet Food shows the highest average satisfaction (2.98) across purchase categories, making it the strongest loyalty anchor — customers return for consumables.
+  
+- Customers who do NOT leave reviews are slightly more satisfied than those who do — suggesting passive loyal customers exist and are under-leveraged for retention programs.
+  
+- Customer Service is the most appreciated feature by far (156 votes), functioning as the primary loyalty driver across segments — investing here has the highest ROI for repeat purchase behavior.
+
